@@ -1,4 +1,4 @@
-# simple-java-maven-app
+
 pipeline {
     agent {
         docker {
